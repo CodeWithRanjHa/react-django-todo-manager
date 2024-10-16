@@ -26,24 +26,28 @@ A simple and efficient Todo Manager built with React and Django REST API, allowi
 - Django
 - Git
 
-### Installation
+### Installation Steps
 
 1. Clone the repository:
-
    ```bash
    git clone git@github.com:CodeWithRanjHa/react-django-todo-manager-.git
-   cd react-django-todo-manager-
 
-    Set up the backend:
+    Navigate to the project directory:
 
     bash
 
-cd backend
-python -m venv venv        # Create a virtual environment
-source venv/bin/activate   # Activate the virtual environment
-pip install -r requirements.txt  # Install dependencies
-python manage.py migrate    # Run migrations
-python manage.py runserver   # Start the server
+   cd react-django-todo-manager-
+
+Set up the backend:
+
+bash
+
+      cd backend
+      python -m venv venv         # Create a virtual environment
+      source venv/bin/activate    # Activate the virtual environment
+      pip install -r requirements.txt  # Install dependencies
+      python manage.py migrate     # Run migrations
+      python manage.py runserver 
 
 Set up the frontend:
 
