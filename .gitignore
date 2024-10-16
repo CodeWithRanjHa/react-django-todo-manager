@@ -1,0 +1,16 @@
+# Exclude virtual environment
+venv/
+.env/
+
+# Django-related files
+*.pyc
+__pycache__/
+
+# Node.js/React-related files
+node_modules/
+build/
+.DS_Store
+
+# Logs
+*.log
+
