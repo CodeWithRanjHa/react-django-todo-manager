@@ -4,14 +4,14 @@ A simple and efficient Todo Manager built with React and Django REST API, allowi
 
 ![Todo Manager Screenshot](https://github.com/user-attachments/assets/07116aa1-578f-4e39-bf6e-948995c08a8e)
 
-## Features
+## Features 🚀
 
 - Add, edit, and delete todos
 - Mark todos as completed
 - User-friendly interface
 - Responsive design
 
-## Tech Stack
+## Tech Stack 💻
 
 - **Frontend:** React
 - **Backend:** Django REST API
