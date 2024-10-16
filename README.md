@@ -15,7 +15,7 @@ A simple and efficient Todo Manager built with React and Django REST API, allowi
 
 - **Frontend:** React
 - **Backend:** Django REST API
-- **Database:** SQLite (or any preferred database)
+- **Database:** SQLite
 
 ## Getting Started
 
@@ -69,8 +69,10 @@ Acknowledgments
     Inspired by modern web development practices
     Thanks to the open-source community!
 
-Connect with Me
+## Connect with Me
 
-    LinkedIn
-    GitHub
-    Email: wasimranjhaa@gmail.com
+If you'd like to reach out or connect, feel free to contact me through the following platforms:
+
+- **LinkedIn:** [wasim-ranjha](https://www.linkedin.com/in/wasim-ranjha)
+- **GitHub:** [CodeWithRanjHa](https://github.com/CodeWithRanjHa)
+- **Email:** [wasimranjhaa@gmail.com](mailto:wasimranjhaa@gmail.com)
