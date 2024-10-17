@@ -3,6 +3,9 @@
 A simple and efficient Todo Manager built with React and Django REST API, allowing users to manage their tasks seamlessly with a modern user interface.
 
 ![Todo Manager Screenshot](https://github.com/user-attachments/assets/07116aa1-578f-4e39-bf6e-948995c08a8e)
+## Demo 🎥
+
+Check out the demo video [here](https://youtu.be/ZVmBRoSR5WY).
 
 ## Features 🚀
 
@@ -29,7 +32,9 @@ A simple and efficient Todo Manager built with React and Django REST API, allowi
 ### Installation Steps
 
 1. Clone the repository:
-   ```bash
+   
+
+bash
    git clone git@github.com:CodeWithRanjHa/react-django-todo-manager-.git
 
     Navigate to the project directory:
