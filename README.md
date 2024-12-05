@@ -82,6 +82,6 @@ Acknowledgments
 
 If you'd like to reach out or connect, feel free to contact me through the following platforms:
 
-- **LinkedIn:** [wasim-ranjha](https://www.linkedin.com/in/wasim-ranjha)
+- **LinkedIn:** [wasim-ranjha](https://www.linkedin.com/in/wasim-ranjhaa)
 - **GitHub:** [CodeWithRanjHa](https://github.com/CodeWithRanjHa)
 - **Email:** [wasimranjhaa@gmail.com](mailto:wasimranjhaa@gmail.com)
